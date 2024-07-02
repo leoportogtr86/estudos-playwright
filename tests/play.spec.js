@@ -1,3 +1,4 @@
+//@ts-check
 const { test } = require("@playwright/test");
 
 test('Teste inicial com playwright', async ({ page }) => {
